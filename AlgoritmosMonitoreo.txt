@@ -1,0 +1,1 @@
+Pseudocodigo de los algoritmos para el monitoreo epidemiológico
